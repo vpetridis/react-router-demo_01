@@ -1,2 +1,3 @@
 # react-router-demo_01
-Created with CodeSandbox
+
+Some practise coding to toggle active bootstrap pill items with nested state in React.
